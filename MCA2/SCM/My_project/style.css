@@ -1,0 +1,17 @@
+h1{
+    color:aqua;
+}
+img{
+    height:70px;
+}
+.sidenav{
+    display:flex;
+    background-color: orange;
+    width: 50%;
+    border: 2px solid;
+    border-color: black;
+}
+ul{
+    text-decoration-style: dotted;
+    text-decoration: aqua;
+}
